@@ -1,5 +1,9 @@
 @model AmazonApp.Models.Order
 
+@{
+    ViewData["Title"] = "Place an Order";
+}
+
 <h2>Place an Order</h2>
 
 <form method="post" action="/Orders/CreateOrder">
