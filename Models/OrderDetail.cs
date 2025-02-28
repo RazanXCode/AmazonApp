@@ -9,3 +9,4 @@ namespace AmazonApp.Models
         public decimal SubTotal { get; set; }
     }
 }
+

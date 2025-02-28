@@ -95,3 +95,4 @@ C:\Users\razan\AmazonApp\obj\Debug\net9.0\refint\AmazonApp.dll
 C:\Users\razan\AmazonApp\obj\Debug\net9.0\AmazonApp.pdb
 C:\Users\razan\AmazonApp\obj\Debug\net9.0\AmazonApp.genruntimeconfig.cache
 C:\Users\razan\AmazonApp\obj\Debug\net9.0\ref\AmazonApp.dll
+C:\Users\razan\AmazonApp\obj\Debug\net9.0\AmazonApp.sourcelink.json

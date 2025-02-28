@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmazonApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a832977f4ec89790b8f82383314dd2194e1eefd")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmazonApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmazonApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
