@@ -6,7 +6,7 @@ namespace AmazonApp.Controllers
     [Route("Products")]
     public class ProductController : Controller
     {
-        // In-memory lists
+      
         private static List<Product> Products = new List<Product>
         {
             new Product { ProductID = 1, Name = "Laptop", Category = "Electronics", Price = 1200, StockQuantity = 10 },
